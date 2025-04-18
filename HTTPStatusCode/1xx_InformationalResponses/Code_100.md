@@ -18,14 +18,15 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
 
 ---
 
-与**HTTP状态100**相似的同系列状态码： [HTTP 101](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_100.md "HTTP 101详细说明") [HTTP 102](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_100.md "HTTP 102详细说明")
+与**HTTP状态100**相似的同系列状态码： [HTTP 101](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Code_101.md "HTTP 101详细说明") [HTTP 102](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Code_102.md "HTTP 102详细说明")
+
+
 
 ---
 
 其它常见状态码： - [HTTP 200](https://seo.juziseo.com/doc/http_code/200 "HTTP 200详细说明")
  - [HTTP 301](https://seo.juziseo.com/doc/http_code/301 "HTTP 301详细说明")
- - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_302
- - .md "HTTP 302详细说明")
+ - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_302 "HTTP 302详细说明")
  - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_400.md "HTTP 400详细说明")
  - [HTTP 403](https://seo.juziseo.com/doc/http_code/403 "HTTP 403详细说明")
  - [HTTP 404](https://seo.juziseo.com/doc/http_code/404 "HTTP 404详细说明")
