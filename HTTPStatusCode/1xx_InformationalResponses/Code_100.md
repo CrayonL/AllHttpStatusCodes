@@ -22,18 +22,18 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
 
 ---
 
-其它常见状态码： - [HTTP 200](https://seo.juziseo.com/doc/http_code/200 "HTTP 200详细说明")
- - [HTTP 301](https://seo.juziseo.com/doc/http_code/301 "HTTP 301详细说明")
+其它常见状态码： - [HTTP 200](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_200.md "HTTP 200详细说明")
+ - [HTTP 301](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_301.md "HTTP 301详细说明")
  - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_302
  - .md "HTTP 302详细说明")
  - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_400.md "HTTP 400详细说明")
- - [HTTP 403](https://seo.juziseo.com/doc/http_code/403 "HTTP 403详细说明")
- - [HTTP 404](https://seo.juziseo.com/doc/http_code/404 "HTTP 404详细说明")
- - [HTTP 500](https://seo.juziseo.com/doc/http_code/500 "HTTP 500详细说明")
- - [HTTP 502](https://seo.juziseo.com/doc/http_code/502 "HTTP 502详细说明")
- - [HTTP 503](https://seo.juziseo.com/doc/http_code/503 "HTTP 503详细说明")
- - [HTTP 504](https://seo.juziseo.com/doc/http_code/504 "HTTP 504详细说明")
+ - [HTTP 403](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_403.md "HTTP 403详细说明")
+ - [HTTP 404](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_404.md "HTTP 404详细说明")
+ - [HTTP 500](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_500.md "HTTP 500详细说明")
+ - [HTTP 502](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_502.md "HTTP 502详细说明")
+ - [HTTP 503](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_503.md "HTTP 503详细说明")
+ - [HTTP 504](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_504.md "HTTP 504详细说明")
 
 ---
 
-更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
+更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes)

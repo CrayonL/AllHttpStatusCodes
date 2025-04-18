@@ -21,25 +21,25 @@ Status Code: 400 Bad Request 表示客户端发起了一个错误的请求，通
 
 ---
 
-与**HTTP状态400**相似的同系列状态码： - [HTTP 414](https://seo.juziseo.com/doc/http_code/414 "HTTP 414详细说明")
- - [HTTP 402](https://seo.juziseo.com/doc/http_code/402 "HTTP 402详细说明")
- - [HTTP 424](https://seo.juziseo.com/doc/http_code/424 "HTTP 424详细说明")
- - [HTTP 422](https://seo.juziseo.com/doc/http_code/422 "HTTP 422详细说明")
- - [HTTP 406](https://seo.juziseo.com/doc/http_code/406 "HTTP 406详细说明")
+与**HTTP状态400**相似的同系列状态码： - [HTTP 414](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_414.md "HTTP 414详细说明")
+ - [HTTP 402](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_402.md "HTTP 402详细说明")
+ - [HTTP 424](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_424.md "HTTP 424详细说明")
+ - [HTTP 422](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_422.md "HTTP 422详细说明")
+ - [HTTP 406](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_406.md "HTTP 406详细说明")
 
 ---
 
-其它常见状态码： - [HTTP 200](https://seo.juziseo.com/doc/http_code/200 "HTTP 200详细说明")
- - [HTTP 301](https://seo.juziseo.com/doc/http_code/301 "HTTP 301详细说明")
- - [HTTP 302](https://seo.juziseo.com/doc/http_code/302 "HTTP 302详细说明")
- - [HTTP 400](https://seo.juziseo.com/doc/http_code/400 "HTTP 400详细说明")
- - [HTTP 403](https://seo.juziseo.com/doc/http_code/403 "HTTP 403详细说明")
- - [HTTP 404](https://seo.juziseo.com/doc/http_code/404 "HTTP 404详细说明")
- - [HTTP 500](https://seo.juziseo.com/doc/http_code/500 "HTTP 500详细说明")
- - [HTTP 502](https://seo.juziseo.com/doc/http_code/502 "HTTP 502详细说明")
- - [HTTP 503](https://seo.juziseo.com/doc/http_code/503 "HTTP 503详细说明")
- - [HTTP 504](https://seo.juziseo.com/doc/http_code/504 "HTTP 504详细说明")
+其它常见状态码： - [HTTP 200](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_200.md "HTTP 200详细说明")
+ - [HTTP 301](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_301.md "HTTP 301详细说明")
+ - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_302.md "HTTP 302详细说明")
+ - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_400.md "HTTP 400详细说明")
+ - [HTTP 403](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_403.md "HTTP 403详细说明")
+ - [HTTP 404](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_404.md "HTTP 404详细说明")
+ - [HTTP 500](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_500.md "HTTP 500详细说明")
+ - [HTTP 502](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_502.md "HTTP 502详细说明")
+ - [HTTP 503](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_503.md "HTTP 503详细说明")
+ - [HTTP 504](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_504.md "HTTP 504详细说明")
 
 ---
 
-更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
+更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes)
