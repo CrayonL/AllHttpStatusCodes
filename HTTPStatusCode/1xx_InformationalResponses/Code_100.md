@@ -44,8 +44,8 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
 
 ---
 
-<<<<<<< HEAD
-更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes)
+<<<<<<< HEAD  
+更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
 =======
 更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
 >>>>>>> a19d70d276821a9dfd9b503c6a8b18fc555db96a
