@@ -24,15 +24,12 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
 
 ---
 
-<<<<<<< HEAD
 其它常见状态码： - [HTTP 200](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_200.md "HTTP 200详细说明")
  - [HTTP 301](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_301.md "HTTP 301详细说明")
  - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_302.md "HTTP 302详细说明")
-=======
 其它常见状态码： - [HTTP 200](https://seo.juziseo.com/doc/http_code/200 "HTTP 200详细说明")
  - [HTTP 301](https://seo.juziseo.com/doc/http_code/301 "HTTP 301详细说明")
  - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_302 "HTTP 302详细说明")
->>>>>>> a19d70d276821a9dfd9b503c6a8b18fc555db96a
  - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_400.md "HTTP 400详细说明")
  - [HTTP 403](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_403.md "HTTP 403详细说明")
  - [HTTP 404](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_404.md "HTTP 404详细说明")
@@ -42,9 +39,4 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
  - [HTTP 504](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_504.md "HTTP 504详细说明")
 
 ---
-
-<<<<<<< HEAD  
-更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
-=======
-更多状态码含义说明请查看： [HTTP状态码大全](https://seo.juziseo.com/doc/http_code/)
->>>>>>> a19d70d276821a9dfd9b503c6a8b18fc555db96a
+更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes/tree/master/HTTPStatusCode/)
