@@ -40,4 +40,4 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
  - [HTTP 504](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_504.md "HTTP 504详细说明")
 
 ---
-更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes/tree/master/HTTPStatusCode/)
+更多状态码含义说明请查看： [HTTP状态码大全](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/All_HTTP_Status_Codes.md)
