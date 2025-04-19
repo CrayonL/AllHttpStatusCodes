@@ -34,7 +34,7 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
  - [HTTP 301](https://seo.juziseo.com/doc/http_code/301 "HTTP 301详细说明")
  - [HTTP 302](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_302 "HTTP 302详细说明")
 >>>>>>> a19d70d276821a9dfd9b503c6a8b18fc555db96a
- - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Status_400.md "HTTP 400详细说明")
+ - [HTTP 400](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_400.md "HTTP 400详细说明")
  - [HTTP 403](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_403.md "HTTP 403详细说明")
  - [HTTP 404](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/4xx_ClientErrors/Code_404.md "HTTP 404详细说明")
  - [HTTP 500](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/5xx_ServerErrors/Code_500.md "HTTP 500详细说明")
