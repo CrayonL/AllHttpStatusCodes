@@ -1,4 +1,4 @@
-### [中文](https://github.com/CrayonL/AllHttpStatusCodes/edit/master/README.md) | 英文
+### [中文](https://github.com/CrayonL/AllHttpStatusCodes/edit/master/README.md) | English  
 # 🌐 All HTTP 状态 Codes
 
 Welcome 到 为： **HTTP 状态 代码 Notes Repository**!  
