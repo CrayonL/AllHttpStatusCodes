@@ -5,9 +5,8 @@
 | Http状态码 | Http Status Code                                                                         | Http状态码含义中文说明 |
 | ------- | ---------------------------------------------------------------------------------------- | ------------- |
 | **100** | [100 Continue](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_100.md "查看http状态码100的详细说明")         | 请继续请求         |
-
-| **101** | [101 Switching Protocols](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_101.md "查看http状态码101的详细说明") | 请切换协议         |
-| **102** | [102 Processing](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_102.md "查看http状态码102的详细说明")          | 将继续执行请求       |
+| **101** | [101 Switching Protocols](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_101.md "查看http状态码101的详细说明") | 请切换协议      |
+| **102** | [102 Processing](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_102.md "查看http状态码102的详细说明")          | 将继续执行请求  |
 |         |                                                                                          |               |
 ### 2、 HTTP Status Code 2xx 成功状态
 
