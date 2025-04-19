@@ -4,7 +4,7 @@
 
 | Http状态码 | Http Status Code                                                                         | Http状态码含义中文说明 |
 | ------- | ---------------------------------------------------------------------------------------- | ------------- |
-| **100** | [100 Continue](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_100.md "查看http状态码100的详细说明")            | 请继续请求         |
+| **100** | [100 Continue](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_100.md "查看http状态码100的详细说明")         | 请继续请求         |
 
 | **101** | [101 Switching Protocols](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_101.md "查看http状态码101的详细说明") | 请切换协议         |
 | **102** | [102 Processing](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_102.md "查看http状态码102的详细说明")          | 将继续执行请求       |
@@ -15,16 +15,16 @@
 
 |Http状态码|Http Status Code|Http状态码含义中文说明|
 |---|---|---|
-|**200**|[200 OK](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_200 "查看http状态码200的详细说明")|请求成功|
-|**201**|[201 Created](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_201 "查看http状态码201的详细说明")|请求已被接受，等待资源响应|
-|**202**|[202 Accepted](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_202 "查看http状态码202的详细说明")|请求已被接受，但尚未处理|
-|**203**|[203 Non-Authoritative Information](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_203 "查看http状态码203的详细说明")|请求已成功处理，结果来自第三方拷贝|
-|**204**|[204 No Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_204 "查看http状态码204的详细说明")|请求已成功处理，但无返回内容|
-|**205**|[205 Reset Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_205 "查看http状态码205的详细说明")|请求已成功处理，但需重置内容|
-|**206**|[206 Partial Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_206 "查看http状态码206的详细说明")|请求已成功处理，但仅返回了部分内容|
-|**207**|[207 Multi-Status](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_207 "查看http状态码207的详细说明")|请求已成功处理，返回了多个状态的XML消息|
-|**208**|[208 Already Reported](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_208 "查看http状态码208的详细说明")|响应已发送|
-|**226**|[226 IM Used](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/3xx_Redirection/Code_226 "查看http状态码226的详细说明")|已完成响应|
+|**200**|[200 OK](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_200.md "查看http状态码200的详细说明")|请求成功|
+|**201**|[201 Created](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_201.md "查看http状态码201的详细说明")|请求已被接受，等待资源响应|
+|**202**|[202 Accepted](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_202.md "查看http状态码202的详细说明")|请求已被接受，但尚未处理|
+|**203**|[203 Non-Authoritative Information](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_203.md "查看http状态码203的详细说明")|请求已成功处理，结果来自第三方拷贝|
+|**204**|[204 No Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_204.md "查看http状态码204的详细说明")|请求已成功处理，但无返回内容|
+|**205**|[205 Reset Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_205.md "查看http状态码205的详细说明")|请求已成功处理，但需重置内容|
+|**206**|[206 Partial Content](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_206.md "查看http状态码206的详细说明")|请求已成功处理，但仅返回了部分内容|
+|**207**|[207 Multi-Status](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_207.md "查看http状态码207的详细说明")|请求已成功处理，返回了多个状态的XML消息|
+|**208**|[208 Already Reported](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_208.md "查看http状态码208的详细说明")|响应已发送|
+|**226**|[226 IM Used](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/2xx_Success/Code_226.md "查看http状态码226的详细说明")|已完成响应|
 
 ### 3、 HTTP Status Code 3xx 重定向状态
 
