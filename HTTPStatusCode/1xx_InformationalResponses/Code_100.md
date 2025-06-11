@@ -18,7 +18,7 @@ HTTP 100 (Http Status Code 100) 状态是HTTP协议的一种响应码，是我�
 
 ---
 
-与**HTTP状态100**相似的同系列状态码： [HTTP 101](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_101.md "HTTP 101详细说明") [HTTP 102](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/Code_102.md "HTTP 102详细说明")
+与**HTTP状态100**相似的同系列状态码： [HTTP 101](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCode/1xx_InformationalResponses/Code_101.md "HTTP 101详细说明") [HTTP 102](https://github.com/CrayonL/AllHttpStatusCodes/blob/master/HTTPStatusCodes/1xx_InformationalResponses/Code_102.md "HTTP 102详细说明")
 
 
 
